@@ -1,0 +1,11 @@
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\bin\Debug\Ders2MatematikHesaplama.exe.config
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\bin\Debug\Ders2MatematikHesaplama.exe
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\bin\Debug\Ders2MatematikHesaplama.pdb
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.csproj.AssemblyReference.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.Form1.resources
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.Properties.Resources.resources
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.csproj.GenerateResource.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.exe
+C:\Users\MEHMET AKİF\Source\c#formMURAT\Ders2MatematikHesaplama\Ders2MatematikHesaplama\obj\Debug\Ders2MatematikHesaplama.pdb
